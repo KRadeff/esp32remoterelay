@@ -10,8 +10,8 @@ import time
 from machine import Pin
 
 # ---------------- КОНФИГУРАЦИЯ ----------------
-WIFI_SSID = "IME_NA_MREJATA"
-WIFI_PASS = "PAROLA"
+WIFI_SSID = ""
+WIFI_PASS = ""
 
 RELAY_PIN = 26          # Изход за релето
 RELAY_ACTIVE_LOW = False  # True ако релейният модул се активира с LOW
